@@ -59,3 +59,8 @@ Para empezar, podemos usar un appliance de la [Chapu Virtual Machine](https://dl
     ProxyPassReverse / balancer://chapu/
 </VirtualHost>
 ```
+
+## Referencias
+
+### Debug
+https://hkrishnan.in/tag/stickysession/
