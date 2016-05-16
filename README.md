@@ -60,7 +60,7 @@ Para empezar, podemos usar un appliance de la [Chapu Virtual Machine](https://dl
 </VirtualHost>
 ```
 
-## Referencias
+### Referencias
 
-### Debug
+#### Debug
 https://hkrishnan.in/tag/stickysession/
