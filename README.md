@@ -14,6 +14,8 @@ La configuración más fácil que encontramos para VBOX es poner el adaptador en
 1. Crear un adaptador Host Only yendo a File -> Preferences -> Network -> Tab de Host only -> apretar el (+)
 2. Usar ese adapter en las 3 compus que usemos
 
+Para empezar, podemos usar un appliance de la [Chapu Virtual Machine](https://dl.dropboxusercontent.com/u/13605936/Chapu1.ova)
+
 #### Config del proxy reverso
 
 ```
